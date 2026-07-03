@@ -11,7 +11,9 @@ Human Activity Recognition (HAR) is the process of identifying a person's activi
 In this project, an **LSTM (Long Short-Term Memory)** neural network is trained on sequential sensor data to classify different human activities with high accuracy.
 
 ---
-
+<p align="center">
+  <img src="model mp4.gif" alt="HAR Demo" width="700">
+</p>
 ---
 ## 🚀 Features
 
